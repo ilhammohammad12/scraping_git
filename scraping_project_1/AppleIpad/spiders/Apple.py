@@ -1,5 +1,5 @@
 import scrapy
-
+#scraping project in git
 
 class AppleSpider(scrapy.Spider):
     name = 'Apple'
